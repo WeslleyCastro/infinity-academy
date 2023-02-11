@@ -1,4 +1,22 @@
+@media screen and (max-width: 1170px){
+    h1 {
+        text-align: center;
+    }
+}
+
+
 @media screen and (max-width: 900px) {
+    header {
+        display: block;
+    }
+
+    header h1 {
+        text-align: center;
+        margin: 2rem 0px;
+    }
+
+    
+
     ul {
         flex-direction: column;
         align-items: center;
@@ -27,5 +45,14 @@
     header h1 {
         text-align: center;
         margin: 2rem 0px;
+    }
+}
+
+
+@media screen and (max-width: 630px) {
+   
+    .buttons {
+        flex-direction: column;
+        align-items: center;
     }
 }
