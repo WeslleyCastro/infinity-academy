@@ -1,8 +1,31 @@
-@media screen and (max-width: 1170px) {
-    header{
+@media screen and (max-width: 900px) {
+    ul {
         flex-direction: column;
+        align-items: center;
     }
-    header div {
-        margin: 3rem 0px 4rem;
+
+    ul li {
+        padding: 1rem;
+    }
+    
+    .icons {
+        display: none;
+    }
+
+    main {
+        height: 80vh;
+    }
+}
+
+
+
+@media screen and (max-width: 800px){
+    header {
+        display: block;
+    }
+    
+    header h1 {
+        text-align: center;
+        margin: 2rem 0px;
     }
 }
