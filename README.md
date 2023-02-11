@@ -1,3 +1,3 @@
 infinity-academy
 Landing page
-weslleycastro.github.io/infinity-academy/
+https://weslleycastro.github.io/infinity-academy/
