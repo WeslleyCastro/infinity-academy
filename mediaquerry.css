@@ -1,0 +1,8 @@
+@media screen and (max-width: 1170px) {
+    header{
+        flex-direction: column;
+    }
+    header div {
+        margin: 3rem 0px 4rem;
+    }
+}
